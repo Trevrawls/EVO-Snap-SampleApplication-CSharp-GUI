@@ -1,0 +1,25 @@
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.exe.config
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.exe
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.pdb
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Magensa.resources
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.ManageApplicationData.resources
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.ManageMerchantProfile.resources
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.SampleCode_DeskTop.resources
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.TransactionManagementServices.resources
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode_DeskTop.csproj.GenerateResource.Cache
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.exe
+C:\Dropbox\EVO\SWC\EVO Snap - Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.pdb
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.exe.config
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.exe
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.pdb
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.exe
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.pdb
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode_DeskTop.csprojResolveAssemblyReference.cache
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Magensa.resources
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.ManageApplicationData.resources
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.ManageMerchantProfile.resources
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.SampleCode_DeskTop.resources
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.TransactionManagementServices.resources
+C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode_DeskTop.csproj.GenerateResource.Cache
