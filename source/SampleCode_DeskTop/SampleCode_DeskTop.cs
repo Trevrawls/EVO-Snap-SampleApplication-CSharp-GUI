@@ -2431,7 +2431,7 @@ namespace SampleCode
             /*NOTE
              * Special consideration is necessary for protecting the identity token. You are required to be familure with the following
              * information regarding the identity token.
-             * https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Implementation_Guidelines/2.0.17/ServiceInformationGuidelines/AuthenticationProcess/IdentityTokens.aspx
+             * http://docs.evosnap.com/TransactionProcessing/CWS/Implementation_Guidelines/2.0.17/ServiceInformationGuidelines/AuthenticationProcess/IdentityTokens.aspx
             */
             try
             {
@@ -2748,107 +2748,107 @@ namespace SampleCode
 
         private void linkPreparingAppToTransact_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/index.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/index.aspx");
         }
         private void lnkTxnProcessing_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/index.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/index.aspx");
         } 
         private void lnkSignOnWithToken_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/SignOnAuthentication/SignOnWithToken.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/SignOnAuthentication/SignOnWithToken.aspx");
         }
         private void lnkLblDelegatedSignOn_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/SignOnAuthentication/DelegatedSignOn.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/SignOnAuthentication/DelegatedSignOn.aspx");
         }
         private void lnkManageApplicationData_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/ManagingAppConfigData/index.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/ManagingAppConfigData/index.aspx");
         }
         private void lnkRetrieveServiceInformation_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/RetrievingServiceInformation/index.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/RetrievingServiceInformation/index.aspx");
         }
         private void lnkManageMerchantProfiles_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/ManagingMerchantProfiles/index.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/ManagingMerchantProfiles/index.aspx");
         }
         private void lnkAuthorizeAndCapture_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AuthorizingTransactions/AuthorizeAndCapture.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AuthorizingTransactions/AuthorizeAndCapture.aspx");
         }
         private void lnkAuthorize_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AuthorizingTransactions/Authorize.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AuthorizingTransactions/Authorize.aspx");
         }
         private void lnkAdjust_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AdjustingVoidingTransactions/Adjust.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AdjustingVoidingTransactions/Adjust.aspx");
         }
         private void lnkUndo_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AdjustingVoidingTransactions/Undo.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/AdjustingVoidingTransactions/Undo.aspx");
         }
         private void lnkCapture_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/CapturingTransactions/Capture.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/CapturingTransactions/Capture.aspx");
         }
         private void lnkCaptureAll_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/CapturingTransactions/CaptureAll.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/CapturingTransactions/CaptureAll.aspx");
         }
         private void lnkCaptureSelective_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/CapturingTransactions/CaptureSelective.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/CapturingTransactions/CaptureSelective.aspx");
         }
         private void lnkReturnById_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/RefundingTransactions/ReturnById.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/RefundingTransactions/ReturnById.aspx");
         }
         private void lnkReturnUnlinked_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/RefundingTransactions/ReturnUnlinked.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/RefundingTransactions/ReturnUnlinked.aspx");
         }
         private void lnkQueryAccount_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/QueryAccount.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/QueryAccount.aspx");
         }
         private void lnkVerify_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/Verify.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/Verify.aspx");
         }
         private void lnkServiceKey_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Overview/AccessingEndpoints.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Overview/AccessingEndpoints.aspx");
         }
         private void lnkAccessingWebServiceEndpoints_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Overview/WebServiceEndpoints.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Overview/WebServiceEndpoints.aspx");
         }
         private void lnkIdentityToken_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/IntegrationGuidance/ServiceInformationGuidelines/SignOnAuthentication/IdentityTokens.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/IntegrationGuidance/ServiceInformationGuidelines/SignOnAuthentication/IdentityTokens.aspx");
         }
         private void lnkOnlineDocumentation_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/Default.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/Default.aspx");
         }
         private void lnkAcknowledge_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/Acknowledge.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/Acknowledge.aspx");
         }
         private void LnkRequestTransaction_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/RequestTransaction.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/RequestTransaction.aspx");
         }
         private void lnkManageAccount_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/ManageAccount.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/ManageAccount.aspx");
         }
         private void lnkManageAccountById_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/ManageAccountById.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/TransactionProcessing/OptionalOperations/ManageAccountById.aspx");
         }
        
         #endregion Setup Help Links

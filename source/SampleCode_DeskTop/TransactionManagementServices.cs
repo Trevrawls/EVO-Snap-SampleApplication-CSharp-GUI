@@ -110,7 +110,7 @@ namespace SampleCode
 
         private void QueryBatch()
         {
-            //https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryBatch.aspx
+            //http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryBatch.aspx
 
             try
             {
@@ -168,7 +168,7 @@ namespace SampleCode
         }
  
         private void QueryTransactionsSummary()
-        {//https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsSummary.aspx
+        {//http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsSummary.aspx
 
             bool BlnIncludeRelated = chkIncludeRelated.Checked;
             
@@ -221,7 +221,7 @@ namespace SampleCode
 
         private void QueryTransactionFamilies()
         {
-            //https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionFamilies.aspx
+            //http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionFamilies.aspx
 
             try
             {
@@ -269,7 +269,7 @@ namespace SampleCode
 
         private void QueryTransactionsDetail()
         {
-            //https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsDetail.aspx
+            //http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsDetail.aspx
 
             bool BlnIncludeRelated = chkIncludeRelated.Checked;
             try
@@ -968,19 +968,19 @@ namespace SampleCode
         #region Setup Help Links
         private void lnkQueryBatch_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryBatch.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryBatch.aspx");
         }
         private void lnkQueryTransactions_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsSummary.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsSummary.aspx");
         }
         private void lnkQueryTransactionFamilies_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionFamilies.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionFamilies.aspx");
         }
         private void lnkQueryTransactionDetails_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsDetail.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/DataServices/TMS_Developer_Guide/2.0.17/Implementation/SOAP/QueryTransactionsDetail.aspx");
         }
         #endregion END Setup Help Links
 

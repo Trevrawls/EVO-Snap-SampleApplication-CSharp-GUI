@@ -815,7 +815,7 @@ namespace SampleCode
         }
 
         private void cmdPopulateTestValues_Click(object sender, EventArgs e)
-        {//Online Reference https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/API_Reference/2.0.17/ServiceInfoDataElements/BankcardMerchantData.aspx
+        {//Online Reference http://docs.evosnap.com/TransactionProcessing/CWS/API_Reference/2.0.17/ServiceInfoDataElements/BankcardMerchantData.aspx
             MessageBox.Show(
                 "Please note that the following values are generic. Depending on the scope of your integration the following values may change. Please contact your solution consultant with any questions.");
 
@@ -958,7 +958,7 @@ namespace SampleCode
 
         private void lnkManageMerchantData_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://my.ipcommerce.com/Docs/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/ManagingMerchantProfiles/index.aspx");
+            System.Diagnostics.Process.Start("http://docs.evosnap.com/TransactionProcessing/CWS/Developer_Guide/2.0.18/Implementation/PreparingTheAppToTransact/ManagingMerchantProfiles/index.aspx");
         }
    
     }

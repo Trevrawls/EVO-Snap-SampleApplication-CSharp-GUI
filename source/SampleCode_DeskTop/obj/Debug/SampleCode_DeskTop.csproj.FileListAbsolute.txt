@@ -23,3 +23,16 @@ C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\S
 C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Properties.Resources.resources
 C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.TransactionManagementServices.resources
 C:\Github\EVO-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode_DeskTop.csproj.GenerateResource.Cache
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.exe.config
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.exe
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.pdb
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.exe
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\bin\Debug\SampleCode.pdb
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode_DeskTop.csprojResolveAssemblyReference.cache
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Magensa.resources
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.ManageApplicationData.resources
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.ManageMerchantProfile.resources
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.SampleCode_DeskTop.resources
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode.TransactionManagementServices.resources
+C:\Github\EVO-Snap-SampleApplication-CSharp-GUI\source\SampleCode_DeskTop\obj\Debug\SampleCode_DeskTop.csproj.GenerateResource.Cache
