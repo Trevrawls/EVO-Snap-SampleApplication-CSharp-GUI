@@ -4,6 +4,6 @@ C-Sharp-SampleApplication-WinForms
 
 <b>Got a question?</b>  Visit http://community.evosnap.com/questions/ for development help.  
 
-Integration Guidelines available here:  http://my.evosnap.com/Docs/IntegrationGuidelines/Default.aspx
+Integration Guidelines available here:  http://docs.evosnap.com/IntegrationGuidelines/Default.aspx
 
 EVO Payments International, Commerce Web Services sample application demonstrating the flow of how to integrate with our API. 
